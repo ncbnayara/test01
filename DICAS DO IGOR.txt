@@ -1,0 +1,54 @@
+===COMO INSTALAR O GIT===========
+next
+next
+desmarcar git gui, habilitar outras fontes
+next
+next
+visual studio code
+next
+next
+next
+habilitar link simbolico
+next
+next
+
+
+===COMANDOS DO LINUX===========
+linux
+ls = list = listar
+para ver todos os parâmetros digite ls --help
+ctrl + insert para copiar no git
+é possível combinar mais de um parâmetro, ls -alh
+cd = comando para mudar de pasta
+atalhos
+~ = pasta do usuário logado
+. = pasta atual
+..= paste anterior
+pwd = mostra o caminho completo
+master = linha do tempo principal do github
+
+===COMANDOS DO GIT===========
+git status
+	mostra o que mudou no seu repositório
+
+git clone [link do repositorio]
+	para baixar o repositório
+
+git add . 
+	para adicionar tudo que foi criado ou alterado
+
+git commit -m "<comentário do que foi feito>"
+	para criar comentarios
+	
+git config --global user.email "<e-mail do Github>"
+git config --global user.name "<usuário do Github>"
+	fazer o login no Git Bash
+
+git push
+	para enviar (upload) (LIMITE DE 50 MB)
+	
+git fetch
+	para baixar o status da nuvem
+	
+git pull
+	para baixar atualizações da nuvem (download)
